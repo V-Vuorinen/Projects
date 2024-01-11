@@ -1,4 +1,4 @@
-# Welcome to My Projects (yet)!
+# Welcome to My Projects (so far)!
 
 Outside of these projects I have experience in data analysis, building basic dashboards (PowerBI) and designing data pipelines etc. Enough about that, here are projects I have developed in my portfolio, which showcases for example: web scraping, data cleaning, data analysis, reading in/into different file formats and connecting into databases. 
 
